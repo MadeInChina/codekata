@@ -1,0 +1,27 @@
+http://osherove.com/tdd-kata-1
+
+
+codekata2:
+猜数字游戏 游戏说明: 
+1、游戏开始，电脑随机产生一个数字不重复的四位数。 
+
+2、将您猜的数点击OK按钮提交。 
+
+3、电脑会将您提交的数与它自动产生的数进行比较，
+结果显示成"*A*B"。A代表位置正确数字也正确，B代表数字 正确但位置不正确，
+比如："2A2B"表示您有2个数字的位置正确且数值也正确，
+除此以外，您还猜对了2个数字 ，但位置不对。
+
+4、您共有10次机会，在10次内，如果结果为“4A0B”，游戏成功。如果10次里您都没有猜对游戏失败。 -猜数字
+
+1, games started, the computer randomly generated a number of non-repetition of the four-digit. 
+ 
+2, would you guess the number of clicks the OK button to submit. 
+ 
+3, the computer will take you to submit a few with it automatically generated a number of comparison, 
+the result is displayed as * A* B . A representative of the location of the correct figure is also correct, 
+B representative of the number of correct but the location is incorrect, such as: 2A2B that you have a 
+two-digit numerical position is correct and also the right, in addition, you guessed it two figures, 
+but wrong location. 
+
+4, your opportunity for a total of 10 times in 10 times, if the results of 4A0B , the game successfully. 10 years if you do not have to guess the failure of the game.
