@@ -33,4 +33,8 @@ public class StringUtils {
         return prefix + word + suffix;
     }
 
+    public static String firstHalf(String string) {
+        return string.substring(0, string.length() / 2);
+    }
+
 }
