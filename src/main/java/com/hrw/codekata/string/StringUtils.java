@@ -22,4 +22,15 @@ public class StringUtils {
 
     }
 
+    public static String helloName(String name) {
+
+        return "Hello " + name + "!";
+    }
+
+    public static String makeOutWord(String string, String word) {
+        String prefix = string.substring(0, 2);
+        String suffix = string.substring(2, 4);
+        return prefix + word + suffix;
+    }
+
 }
